@@ -1,6 +1,6 @@
 ### 👋 Hi there~
 
-I'm Lionad, a frontend engineer @ ShangHai, China.
+I'm Lionad, a frontend engineer @ ShangHai, work for @ [Baxing](https://github.com/baixing).
 
 - ⚒️ Langs: JavaScript & CSS
 - 🎨 Hobbies: FingerStyle & Snooze...
