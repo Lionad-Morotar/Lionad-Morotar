@@ -1,14 +1,14 @@
-### Hi there 👋 ![LionadCodewars](https://www.codewars.com/users/Lionad/badges/micro)
+### 👋 Hi there~
 
 I'm Lionad, a frontend engineer @ ShangHai, China.
 
 - ⚒️ Langs: JavaScript & CSS
-- 🎨 Hobbies: Guitars & Snooze...
+- 🎨 Hobbies: FingerStyle & Snooze...
 - ✏️ OS: Windows + OneDrive == World
 
 There are some not fun things here: [www.lionad.art](https://www.lionad.art).
 
-### Coding with JOY~
+### ✨ Coding with JOY~
 
 <!--START_SECTION:waka-->
 ```text
