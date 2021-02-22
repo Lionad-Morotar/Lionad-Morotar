@@ -18,4 +18,11 @@ Here are some ideas to get you started:
 ### Coding with JOY~
 
 <!--START_SECTION:waka-->
+```text
+Haskell      16 hrs 10 mins  █████████████▒░░░░░░░░░░░   53.20 % 
+TypeScript   7 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
+Vue.js       5 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.82 % 
+JavaScript   53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Markdown     31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+```
 <!--END_SECTION:waka-->
