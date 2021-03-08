@@ -14,10 +14,10 @@ There are some not fun things here: [www.lionad.art](https://www.lionad.art).
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       25 hrs 53 mins  ██████████▓░░░░░░░░░░░░░░   42.63 % 
-JavaScript   17 hrs 43 mins  ███████▒░░░░░░░░░░░░░░░░░   29.18 % 
-Haskell      11 hrs 29 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.94 % 
-TypeScript   2 hrs 55 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-JSON         1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Vue.js       27 hrs 12 mins  █████████████░░░░░░░░░░░░   51.52 % 
+JavaScript   19 hrs 59 mins  █████████▒░░░░░░░░░░░░░░░   37.84 % 
+TypeScript   2 hrs 55 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+JSON         1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+LESS         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
 <!--END_SECTION:waka-->
