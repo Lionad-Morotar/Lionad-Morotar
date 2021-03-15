@@ -19,7 +19,6 @@ I'm Lionad, a frontend engineer @ ShangHai, work for @ [Baxing](https://github.c
 
 <br />
 <br />
-<br />
 
 - ⚒️ Langs: JavaScript & CSS
 - 🎨 Hobbies: FingerStyle & Snooze...
