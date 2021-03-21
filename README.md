@@ -8,6 +8,8 @@ I'm Lionad, a frontend engineer @ ShangHai, work for @ [Baxing](https://github.c
 - 🎨 Hobbies: FingerStyle & Snooze...
 - ✏️ OS: Windows + OneDrive == World
 
+<br />
+
 <a href="https://www.lionad.art">
   <img align="left" alt="lionad-art" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wordpress.svg" />
 </a>
@@ -21,7 +23,6 @@ I'm Lionad, a frontend engineer @ ShangHai, work for @ [Baxing](https://github.c
   <img align="left" alt="yisar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
 
-<br />
 <br />
 
 My Blog: [www.lionad.art](https://www.lionad.art).
