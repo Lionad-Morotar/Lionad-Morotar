@@ -24,7 +24,7 @@ I'm Lionad, a frontend engineer @ ShangHai, work for @ [Baxing](https://github.c
 - 🎨 Hobbies: FingerStyle & Snooze...
 - ✏️ OS: Windows + OneDrive == World
 
-There are some not fun things here: [www.lionad.art](https://www.lionad.art).
+My Blog: [www.lionad.art](https://www.lionad.art).
 
 ### ✨ Coding with JOY~
 
