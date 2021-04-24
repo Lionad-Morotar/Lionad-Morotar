@@ -31,10 +31,10 @@ My Blog: [www.lionad.art](https://www.lionad.art).
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   9 hrs 7 mins    ███████████▒░░░░░░░░░░░░░   45.76 % 
-Vue.js       8 hrs 19 mins   ██████████▒░░░░░░░░░░░░░░   41.70 % 
-HTML         1 hr 43 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Markdown     28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+JavaScript   9 hrs 48 mins   ████████████░░░░░░░░░░░░░   47.80 % 
+Vue.js       7 hrs 38 mins   █████████▒░░░░░░░░░░░░░░░   37.29 % 
+HTML         2 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Markdown     27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 <!--END_SECTION:waka-->
