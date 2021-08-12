@@ -29,10 +29,10 @@ I'm Lionad, a frontend engineer @ ShangHai, work for @ [Baxing](https://github.c
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   14 hrs 27 mins  █████████▒░░░░░░░░░░░░░░░   37.82 % 
-YAML         6 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Pug          5 hrs 51 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-JavaScript   5 hrs 51 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Markdown     1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+TypeScript   12 hrs 22 mins  ████████░░░░░░░░░░░░░░░░░   32.40 % 
+Pug          8 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.68 % 
+JavaScript   6 hrs 53 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.04 % 
+YAML         4 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Markdown     1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 ```
 <!--END_SECTION:waka-->
