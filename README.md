@@ -1,6 +1,6 @@
 ### 👋 Hi there~
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Lionad-Morotar&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Lionad-Morotar&show_icons=true">](https://metrics.lecoq.io/Lionad-Morotar?template=classic)
 
 I'm Lionad, a frontend engineer @ ShangHai, work for @ [Baxing](https://github.com/baixing).
 
