@@ -29,9 +29,9 @@ I'm Lionad, a frontend engineer @ ShangHai, work for @ [Baxing](https://github.c
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     6 hrs 15 mins   ████████████████████▒░░░░   81.54 % 
-Vue.js       1 hr 6 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-JavaScript   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Markdown     3 hrs 17 mins   █████████████████▒░░░░░░░   69.91 % 
+Vue.js       1 hr 6 mins     ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+JavaScript   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
 <!--END_SECTION:waka-->
