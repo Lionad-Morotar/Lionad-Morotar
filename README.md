@@ -29,6 +29,6 @@ I'm Lionad, a frontend engineer @ ShangHai, work for @ [Baxing](https://github.c
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   5 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
