@@ -2,11 +2,12 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Lionad-Morotar&show_icons=true">](https://metrics.lecoq.io/Lionad-Morotar?template=classic)
 
-I'm Lionad, a frontend engineer @ ShangHai, work for @ [Baxing](https://github.com/baixing).
+I'm Lionad, a new kind of creature.
 
-- ⚒️ Langs: JavaScript & CSS
-- 🎨 Hobbies: FingerStyle & Snooze...
+- ⚒️ Langs: JavaScript(main) & C++(learning)
+- 🎨 Hobbies: Guitar(finterstyle) & Reading(42)
 - ✏️ OS: Windows + OneDrive == World
+- ⚖️ Belief: Web + Broswer > App
 
 <br />
 
