@@ -31,10 +31,10 @@ I'm Lionad, a new kind of creature.
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     11 hrs 28 mins  ██████████████████░░░░░░░   72.16 %
-C++          3 hrs 43 mins   ██████░░░░░░░░░░░░░░░░░░░   23.43 %
-Makefile     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Markdown     12 hrs 17 mins  ██████████████████████▓░░   90.12 %
+C++          38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Makefile     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
