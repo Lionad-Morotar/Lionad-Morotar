@@ -5,7 +5,7 @@
 I'm Lionad, a new kind of creature.
 
 - ⚒️ Langs: JavaScript(main) & C++(learning)
-- 🎨 Hobbies: Guitar(finterstyle) & Reading(42)
+- 🎨 Hobbies: Guitar(fingerstyle) & Reading(42)
 - ✏️ OS: Windows + OneDrive == World
 - ⚖️ Belief: Web + Broswer > App
 
