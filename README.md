@@ -31,10 +31,10 @@ I'm Lionad, a new kind of creature.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   8 hrs 7 mins    █████████████████▓░░░░░░░   70.41 %
-JavaScript   2 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.87 %
-Markdown     48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-JSON         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+TypeScript   11 hrs 27 mins  ███████████████████▒░░░░░   77.55 %
+JavaScript   1 hr 50 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
+Markdown     58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+JSON         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
