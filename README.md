@@ -31,11 +31,11 @@ I'm Lionad, a new kind.
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       30 hrs 46 mins  █████████████████░░░░░░░░   68.63 %
-TypeScript   8 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.21 %
-SCSS         1 hr 42 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-JavaScript   1 hr 27 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-Other        53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Vue.js       34 hrs 36 mins  █████████████████▒░░░░░░░   69.34 %
+TypeScript   8 hrs 31 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.06 %
+SCSS         1 hr 52 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+JavaScript   1 hr 28 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Other        54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 ```
 
 <!--END_SECTION:waka-->
