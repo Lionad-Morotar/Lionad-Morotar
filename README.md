@@ -4,7 +4,7 @@
 
 I'm Lionad, a new kind.
 
-- ⚒️ Langs: JavaScript(main) & C++(learning)
+- ⚒️ Langs: TypeScript(main) & CSS(a little)
 - 🎨 Hobbies: Guitar(fingerstyle) & Reading(42)
 - ✏️ OS: Windows + OneDrive == World
 - ⚖️ Belief: Web + Broswer > App
