@@ -31,7 +31,10 @@ I'm Lionad, a new kind.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Vue.js       28 mins         ██████████████████▒░░░░░░   73.28 %
+TypeScript   9 mins          ██████░░░░░░░░░░░░░░░░░░░   24.13 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Ezhil        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
