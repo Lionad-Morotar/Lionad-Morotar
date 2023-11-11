@@ -25,17 +25,3 @@ I'm Lionad, a new kind.
 </a>
 
 <br />
-
-### ✨ Coding with JOY~
-
-<!--START_SECTION:waka-->
-
-```txt
-Vue.js       15 hrs 34 mins  █████████▓░░░░░░░░░░░░░░░   38.16 %
-TypeScript   10 hrs 30 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.72 %
-CSS          3 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
-Less         2 hrs 53 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
-JavaScript   2 hrs 26 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-```
-
-<!--END_SECTION:waka-->
