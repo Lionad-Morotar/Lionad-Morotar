@@ -6,7 +6,7 @@ I'm Lionad, a new kind.
 
 - ⚒️ Langs: TypeScript(main) & CSS(a little)
 - 🎨 Hobbies: Guitar(fingerstyle) & Reading(42)
-- ✏️ OS: Windows + OneDrive == World
+- ✏️ OS: MacOS + Windows
 - ⚖️ Belief: Web + Broswer > App
 
 <br />
