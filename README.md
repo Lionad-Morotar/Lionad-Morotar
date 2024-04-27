@@ -5,9 +5,10 @@
 I'm Lionad, a new kind.
 
 - ⚒️ Langs: TypeScript(main) & CSS(a little)
-- 🎨 Hobbies: Guitar(fingerstyle) & Reading(42)
 - ✏️ OS: MacOS + Windows
 - ⚖️ Belief: Web + Broswer > App
+- 🎨 Hobbies: Reading(42) & <del>Guitar(fingerstyle)</del>
+- 👾 Games: Rougeli*e & <del>Escape From Tarkov</del>
 
 <br />
 
