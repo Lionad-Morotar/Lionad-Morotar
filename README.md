@@ -4,7 +4,7 @@
 
 I'm Lionad, a new kind.
 
-- ⚒️ Langs: TypeScript(main) & CSS(a little)
+- ⚒️ Langs: Vue Stack & TypeScript(main)
 - ✏️ OS: MacOS + Windows
 - ⚖️ Belief: Web + Broswer > App
 - 🎨 Hobbies: Reading(42) & <del>Guitar(fingerstyle)</del>
