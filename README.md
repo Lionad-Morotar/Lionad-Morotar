@@ -4,11 +4,13 @@
 
 I'm Lionad, a new kind.
 
-- ⚒️ Langs: Vue Stack & TypeScript(main)
+- 🏷️ Tags: FrontEnd + Product + Life Hack
+- ⚒️ Langs: Vue Stack & TypeScript
 - ✏️ OS: MacOS + Windows
 - ⚖️ Belief: Web + Broswer > App
 - 🎨 Hobbies: Reading(42) & <del>Guitar(fingerstyle)</del>
 - 👾 Games: Rougeli*e & <del>Escape From Tarkov</del>
+- 🇺🇳 Speak: CN、EN(limited)
 
 <br />
 
