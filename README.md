@@ -4,7 +4,7 @@
 
 I'm Lionad, a new kind.
 
-- 🏷️ Tags: FrontEnd + Product + Life Hack
+- 🏷️ Tags: Frontend、Product、Life Hack
 - ⚒️ Langs: Vue Stack & TypeScript
 - ✏️ OS: MacOS + Windows
 - ⚖️ Belief: Web + Broswer > App
