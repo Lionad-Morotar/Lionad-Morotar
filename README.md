@@ -17,16 +17,19 @@ I'm Lionad, a new kind.
 <br />
 
 <a href="https://www.lionad.art">
-  <img align="left" alt="lionad-art" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wordpress.svg" />
+  <img align="left" alt="lionad-art" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@16/icons/wordpress.svg" />
 </a>
 <a href="#1806234223">
-  <img align="left" alt="1806234223" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
+  <img align="left" alt="1806234223" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@16/icons/tencentqq.svg" />
 </a>
 <a href="https://www.zhihu.com/people/Lionad">
-  <img align="left" alt="132yse" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/zhihu.svg" />
+  <img align="left" alt="132yse" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@16/icons/zhihu.svg" />
 </a>
 <a href="https://github.com/Lionad-Morotar">
-  <img align="left" alt="yisar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
+  <img align="left" alt="yisar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@16/icons/github.svg" />
+</a>
+<a href="https://x.com/GLionad">
+  <img align="left" alt="yisar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@16/icons/x.svg" />
 </a>
 
 <br />
