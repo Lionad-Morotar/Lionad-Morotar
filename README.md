@@ -20,7 +20,7 @@ I'm Lionad, a new kind.
   <img align="left" alt="lionad-art" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@16/icons/wordpress.svg" />
 </a>
 <a href="#1806234223">
-  <img align="left" alt="1806234223" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@16/icons/tencentqq.svg" />
+  <img align="left" alt="1806234223" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@16/icons/qq.svg" />
 </a>
 <a href="https://www.zhihu.com/people/Lionad">
   <img align="left" alt="132yse" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@16/icons/zhihu.svg" />
